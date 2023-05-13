@@ -14,5 +14,9 @@
 - [ ] [Sigma](https://github.com/SigmaHQ/sigma/)
 - [ ] [Chronicle](https://github.com/chronicle/GCTI)
 
-## Philosophical
+## Foundational
+- [ ] [Detection Engineering Pocket Guide](https://github.com/jshlbrd/detection-engineering-pocket-guide)
+
+## Detection Testing
 - [ ] [The Validated Canary: Our validation philosophy](https://redcanary.com/blog/detection-validation/)
+- [ ] [Applying test-driven development to detection engineering](https://markernest.medium.com/applying-test-driven-development-to-detection-engineering-5e58e7299b2b)
